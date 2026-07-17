@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-cryptography
-python-dotenv 
-GROQ
+fastapi==0.110.0
+uvicorn==0.28.0
+redis==5.0.3
+numpy==1.26.4
+xai-sdk==0.1.0
